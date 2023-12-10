@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FK/V9YQNZ02O0999CP4IVKOQ2.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3J/UCGJPZJ9PTQV1PUIVKC0WQ.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/K7/0R5PLENEDZCVJOA04K3V2E.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1H/8KOBAF4EKKF8CDK6YDYGX2.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/03/AGIQFL96KM9LI51RIUDGHR.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1I/JXM2JHL5PTW5KEDHIIVS7I.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SG/PQNNZZ3ETV5N08TOH0O4X9.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HU/YZLVDRNR8DTCR24OMR6UL5.uasset",
+				"C:/Users/WebSpider/Documents/github-unreal/project1unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CP/B2S3LQVA4GCCKS80JJDMJX.uasset"
 			]
 		}
 	]
